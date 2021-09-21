@@ -1,13 +1,13 @@
-# indonesia geojson shp
+# Indonesia geojson shp
 
 ## Indonesia geojson and shape file
-The maps here contains several levels administrative border:
+The maps here contains several levels administrative borders:
 - Village (Desa/Kelurahan)
 - Sub District (Kecamatan)
 - District (Kota/Kabupaten)
 - Province (Propinsi)
 
-There are two versions: detail and simplified. You can download zipped file for each version on release page.
+There are two versions: detail and simplified. You can download them zipped on the release page.
 
 ## Peta wilayah Indonesia dalam format geojson dan .shp file
 Peta ini terdiri atas beberapa tingkat wilayah:
@@ -16,14 +16,17 @@ Peta ini terdiri atas beberapa tingkat wilayah:
 - Kota / Kabupate (District)
 - Propinsi (Province)
 
-Ada dua tipe peta yang dapat kalian unduh: versi detail dan versi sederhana. Kalian dapat mengunduh data lengkap yang ter-zip di halaman release.
+Ada dua tipe peta yang dapat kalian unduh: versi detail dan versi sederhana. 
+Kalian dapat mengunduh baik data lengkap yang ter-zip di halaman release.
 
-| Level | Tingkat | Rows | GeoJson Size | SHP Size |
-| :---- | :------ | ---: | -----------: | -------: |
-| Village | Desa | 83322 | ~231 MB | ~287 MB |
-| Sub-District | Kecamatan | 7187 | ~84 MB | ~116 MB |
-| District | Kota/Kabupaten | 514 | ~38 MB | ~53 MB |
-| Province | Propinsi | 34 | ~21 MB | ~30 MB |
+Information table
+
+| Level | Tingkat | Rows | GeoJson Size | SHP Size |  GeoJson Simple | SHP Simple |
+| :---- | :------ | ---: | -----------: | -------: | -----------: | -------: |
+| Village | Desa | 83322 | ~231 MB | ~287 MB | ~32 MB | ~52 MB |
+| Sub-District | Kecamatan | 7187 | ~84 MB | ~116 MB | ~3.8 MB | 4.7 MB |
+| District | Kota/Kabupaten | 514 | ~38 MB | ~53 MB | 0.9 MB | 0.75 MB |
+| Province | Propinsi | 34 | ~21 MB | ~30 MB | 0.4 MB | 0.3 MB |
 
 ### code and plot sample
 
