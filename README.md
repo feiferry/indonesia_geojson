@@ -1,4 +1,4 @@
-# indonesia_geojson_shp
+# indonesia geojson shp
 
 ## Indonesia geojson and shape file
 The maps here contains several levels administrative border:
@@ -7,6 +7,7 @@ The maps here contains several levels administrative border:
 - District (Kota/Kabupaten)
 - Province (Propinsi)
 
+There are two versions: detail and simplified. You can download zipped file for each version on release page.
 
 ## Peta wilayah Indonesia dalam format geojson dan .shp file
 Peta ini terdiri atas beberapa tingkat wilayah:
@@ -14,6 +15,8 @@ Peta ini terdiri atas beberapa tingkat wilayah:
 - Kecamatan (Sub-district)
 - Kota / Kabupate (District)
 - Propinsi (Province)
+
+Ada dua tipe peta yang dapat kalian unduh: versi detail dan versi sederhana. Kalian dapat mengunduh data lengkap yang ter-zip di halaman release.
 
 | Level | Tingkat | Rows | GeoJson Size | SHP Size |
 | :---- | :------ | ---: | -----------: | -------: |
